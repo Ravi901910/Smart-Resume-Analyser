@@ -1,0 +1,22 @@
+# Dependencies
+frontend/node_modules/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# Build
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sample files
+backend/sample_resume.pdf
